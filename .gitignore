@@ -1,0 +1,17 @@
+# osx noise
+.DS_Store
+profile
+
+# npm
+node_modules
+
+# xcode noise
+build/*
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
