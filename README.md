@@ -1,3 +1,3 @@
 # Webpack-demo
 
-Inspired by [createapp.dev](https://createapp.dev/)
+Inspired by [createapp.dev](https://createapp.dev/np)
